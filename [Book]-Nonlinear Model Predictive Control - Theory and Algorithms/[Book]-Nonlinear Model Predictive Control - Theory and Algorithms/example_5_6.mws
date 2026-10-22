@@ -1,0 +1,192 @@
+{VERSION 12 0 "Windows XP" "12.0" }
+{USTYLETAB {PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times"
+ 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 2" -1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered
+ List 3" -1 202 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 
+0 0 1 }1 1 0 0 3 3 2 72 2 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 
+1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3
+ 3 2 108 2 0 2 2 -1 1 }{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 
+2 -1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{PSTYLE "Annotatio
+n Title" -1 205 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 
+0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "Warning" -1 7 1 
+{CSTYLE "" -1 -1 "Courier" 1 12 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "" -1 -1 
+"Courier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1
+ 1 }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Prin
+ted Output" -1 6 1 {CSTYLE "" -1 -1 "Courier" 1 12 0 0 255 1 2 2 2 2 2
+ 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Text Output" -1 2 1
+ {CSTYLE "" -1 -1 "Courier" 1 12 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 
+0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1 "
+Courier" 1 12 40 120 40 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2
+ -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE "" -1 -1 "Courier" 1 9 0 0 255 1
+ 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" 
+-1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Hyperlin
+kError" -1 206 1 {CSTYLE "" -1 -1 "Courier" 1 12 255 0 255 1 2 2 1 2 2
+ 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Title" -1 18 1 
+{CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 
+12 2 0 2 0 2 2 -1 1 }{PSTYLE "Error" -1 8 1 {CSTYLE "" -1 -1 "Courier"
+ 1 12 255 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "MS Serif" 1 18 0 0 0 1 2 
+1 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item"
+ -1 15 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 
+1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 4" -1 20 1 {CSTYLE "" -1 
+-1 "MS Serif" 1 12 0 0 0 1 1 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 
+2 -1 1 }{PSTYLE "Heading 3" -1 5 1 {CSTYLE "" -1 -1 "MS Serif" 1 14 0 
+0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Hype
+rlinkWarning" -1 207 1 {CSTYLE "" -1 -1 "Courier" 1 12 0 0 255 1 2 2 1
+ 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1 4
+ 1 {CSTYLE "" -1 -1 "MS Serif" 1 16 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0
+ 0 8 2 2 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified Maple Output" -1 12 1
+ {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 
+0 2 0 2 0 2 2 -1 1 }{PSTYLE "List Item" -1 14 1 {CSTYLE "" -1 -1 "Time
+s" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{CSTYLE "Annotation Text" -1 200 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 
+0 1 }{CSTYLE "Help Maple Name" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 
+2 2 0 0 0 1 }{CSTYLE "2D Math Bold" -1 5 "Times" 1 12 0 0 0 1 2 1 2 2 
+2 2 0 0 0 1 }{CSTYLE "Help Menus" -1 36 "Times" 1 12 0 0 0 1 2 1 2 2 2
+ 2 0 0 0 1 }{CSTYLE "2D Math Italic" -1 3 "Times" 1 12 0 0 0 1 1 2 2 2
+ 2 2 0 0 0 1 }{CSTYLE "Help Normal" -1 30 "Times" 1 12 0 0 0 1 2 2 2 2
+ 2 2 0 0 0 1 }{CSTYLE "Plot Text" -1 28 "Times" 1 8 0 0 0 1 2 2 2 2 2 
+2 0 0 0 1 }{CSTYLE "Help Nonterminal" -1 24 "Courier" 1 12 0 0 0 1 2 1
+ 2 2 2 2 0 0 0 1 }{CSTYLE "Help Heading" -1 26 "Times" 1 14 0 0 0 1 2 
+1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic" -1 42 "Times" 1 12 0 0 0 1 1 
+2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Variable" -1 25 "Courier" 1 12 0 0 0 
+1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic Bold" -1 40 "Times" 1 12 0
+ 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Default" -1 38 "Times" 1 12 0 0 0
+ 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Italic" -1 43 "Times"
+ 1 12 0 0 0 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Maple Input" -1 0 "Courier
+" 1 12 255 0 0 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "2D Output" -1 20 "Times
+" 1 12 0 0 255 1 2 2 2 2 2 1 0 0 0 1 }{CSTYLE "2D Math Bold Small" -1 
+10 "Times" 1 1 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Small" -1
+ 7 "Times" 1 1 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Page Number" -1 
+33 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Output Labels" 
+-1 29 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Plot Title" -1
+ 27 "Times" 1 10 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Emphasized
+" -1 22 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Sym
+bol 2" -1 16 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple \+
+Comment" -1 21 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D
+ Math Italic Small201" -1 201 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 
+}{CSTYLE "Maple Input Placeholder" -1 202 "Courier" 1 12 200 0 200 1 2
+ 1 2 2 1 2 0 0 0 1 }{CSTYLE "Code" -1 203 "Courier" 1 12 255 0 0 1 2 2
+ 2 2 2 2 0 0 0 1 }{CSTYLE "2D Inert Output" -1 204 "Times" 1 12 144 
+144 144 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "2D Math Italic Small" -1 205 "
+Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Comment" -1 18 "Ti
+mes" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Bold" 
+-1 41 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE "Copyright" -1
+ 34 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Hyperlink" -1 
+17 "MS Serif" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Help Unde
+rlined" -1 44 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Promp
+t" -1 1 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math" 
+-1 2 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Input" -1 
+19 "Times" 1 12 0 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Header and Foote
+r" -1 206 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Text" -1 
+207 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Notes" -1 
+37 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Bold" -1 39
+ "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Equation Label" -1
+ 208 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "LaTeX" -1 32 "
+Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Popup" -1 31 "Times"
+ 1 12 0 128 128 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Dictionary Hyperlink" 
+-1 45 "MS Serif" 1 12 147 0 15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Help Fi
+xed" -1 23 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }}
+{SECT 0 {EXCHG {PARA 3 "" 0 "" {TEXT 209 11 "Example 5.6" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart:" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 207 17 "Given the dynamic" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "
+f := (x, u) -> x + u:" }}{PARA 0 "" 0 "" {TEXT 207 20 "and the running
+ cost" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "l := (x, u) -> x^2 + u^2:"
+ }}{PARA 0 "" 0 "" {TEXT 207 40 "with constraint x(N) = 0 for the hori
+zon" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "N := 1:" }}{PARA 0 "" 0 "" 
+{XPPEDIT 2 0 "Typesetting:-mrow(Typesetting:-mi(\"we\", italic = \"fal
+se\", font_style_name = \"Text\", mathvariant = \"normal\"), Typesetti
+ng:-mo(\" \", font_style_name = \"Text\", mathvariant = \"normal\", fe
+nce = \"false\", separator = \"false\", stretchy = \"false\", symmetri
+c = \"false\", largeop = \"false\", movablelimits = \"false\", accent \+
+= \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(
+\"obtain\", italic = \"false\", font_style_name = \"Text\", mathvarian
+t = \"normal\"), Typesetting:-mo(\" \", font_style_name = \"Text\", ma
+thvariant = \"normal\", fence = \"false\", separator = \"false\", stre
+tchy = \"false\", symmetric = \"false\", largeop = \"false\", movablel
+imits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"
+0.0em\"), Typesetting:-mi(\"that\", italic = \"false\", font_style_nam
+e = \"Text\", mathvariant = \"normal\"), Typesetting:-mo(\" \", font_s
+tyle_name = \"Text\", mathvariant = \"normal\", fence = \"false\", sep
+arator = \"false\", stretchy = \"false\", symmetric = \"false\", large
+op = \"false\", movablelimits = \"false\", accent = \"false\", lspace \+
+= \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"the\", italic = \"
+false\", font_style_name = \"Text\", mathvariant = \"normal\"), Typese
+tting:-mo(\" \", font_style_name = \"Text\", mathvariant = \"normal\",
+ fence = \"false\", separator = \"false\", stretchy = \"false\", symme
+tric = \"false\", largeop = \"false\", movablelimits = \"false\", acce
+nt = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-
+mi(\"optimal\", italic = \"false\", font_style_name = \"Text\", mathva
+riant = \"normal\"), Typesetting:-mo(\" \", font_style_name = \"Text\"
+, mathvariant = \"normal\", fence = \"false\", separator = \"false\", \+
+stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mova
+blelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace \+
+= \"0.0em\"), Typesetting:-mi(\"control\", italic = \"false\", font_st
+yle_name = \"Text\", mathvariant = \"normal\"), Typesetting:-mo(\" \",
+ font_style_name = \"Text\", mathvariant = \"normal\", fence = \"false
+\", separator = \"false\", stretchy = \"false\", symmetric = \"false\"
+, largeop = \"false\", movablelimits = \"false\", accent = \"false\", \+
+lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"must\", ita
+lic = \"false\", font_style_name = \"Text\", mathvariant = \"normal\")
+, Typesetting:-mo(\" \", font_style_name = \"Text\", mathvariant = \"n
+ormal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Type
+setting:-mi(\"satisfy\", italic = \"false\", font_style_name = \"Text
+\", mathvariant = \"normal\"));" "-I%mrowG6#/I+modulenameG6\"I,Typeset
+tingGI(_syslibGF'61-I#miGF$6&Q#weF'/%'italicGQ&falseF'/%0font_style_na
+meGQ%TextF'/%,mathvariantGQ'normalF'-I#moGF$6.Q\"~F'F2F5/%&fenceGF1/%*
+separatorGF1/%)stretchyGF1/%*symmetricGF1/%(largeopGF1/%.movablelimits
+GF1/%'accentGF1/%'lspaceGQ&0.0emF'/%'rspaceGFL-F,6&Q'obtainF'F/F2F5F8-
+F,6&Q%thatF'F/F2F5F8-F,6&Q$theF'F/F2F5F8-F,6&Q(optimalF'F/F2F5F8-F,6&Q
+(controlF'F/F2F5F8-F,6&Q%mustF'F/F2F5F8-F,6&Q(satisfyF'F/F2F5" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "uopt(N) := -x;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ",$I\"xG6\"!\"\"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 207 40 "
+Hence, the value function is of the form" }}{PARA 0 "> " 0 "" {MPLTEXT
+ 1 0 34 "V(N) := unapply(l(x, uopt(N)), x):" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 8 "V(N)(x);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*$I\"xG6\"
+\"\"#F&" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 207 24 "Extending the horizon
+ to" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "N := 2:" }}{PARA 0 "" 0 "" 
+{TEXT 207 50 "we redefine the value function at instant N - 1 by" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 43 "V_f(N-1) := unapply(V(N-1)(f(x, u))
+,(x,u));" }}{PARA 0 "" 0 "" {TEXT 207 54 "since we need to evaluate it
+ for a given pair x and u." }}{PARA 11 "" 1 "" {XPPMATH 20 "f*6$I\"xG6
+\"I\"uGF%F%6$I)operatorGF%I&arrowGF%F%,$*$,&9$\"\"\"9%F.\"\"#F0F%F%F%"
+ }}}{EXCHG {PARA 0 "" 0 "" {XPPEDIT 19 1 "Now, `and`(`*`(we, `*`(can, \+
+`*`(define, `*`(the, `*`(cost, `*`(function)))))), `*`(obtain, `*`(the
+, `*`(open, `*`(loop, `*`(optimal, `*`(control, `*`(sequence, `*`(as, \+
+`*`(follows)))))))))):" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_s
+yslibGF'6E-I#miGF$6%Q$NowF'/%'italicGQ&falseF'/%,mathvariantGQ'normalF
+'-I#moGF$6-Q\",F'F2/%&fenceGF1/%*separatorGQ%trueF'/%)stretchyGF1/%*sy
+mmetricGF1/%(largeopGF1/%.movablelimitsGF1/%'accentGF1/%'lspaceGQ&0.0e
+mF'/%'rspaceGQ,0.3333333emF'-F66-Q\"~F'F2F9/F<F1F>F@FBFDFFFH/FLFJ-F,6%
+Q#weF'F/F2FN-F,6%Q$canF'F/F2FN-F,6%Q'defineF'F/F2FN-F,6%Q$theF'F/F2FN-
+F,6%Q%costF'F/F2FN-F,6%Q)functionF'F/F2FN-F66.Q$andF'/%%boldGF1F2F9FQF
+>F@FBFDFFFHFRFN-F,6%Q'obtainF'F/F2FNFfnFN-F,6%Q%openF'F/F2FN-F,6%Q%loo
+pF'F/F2FN-F,6%Q(optimalF'F/F2FN-F,6%Q(controlF'F/F2FN-F,6%Q)sequenceF'
+F/F2FN-F,6%Q#asF'F/F2FN-F,6%Q(followsF'F/F2-F66-Q\":F'F2F9FQF>F@FBFDFF
+/FIQ,0.2777778emF'/FLF`q" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "J(N) :=
+ unapply(l(x, u) + " }{MPLTEXT 1 0 23 "V_f(N-1)(x, u), (x, u))" }
+{MPLTEXT 1 0 1 ";" }}{PARA 11 "" 1 "" {XPPMATH 20 "f*6$I\"xG6\"I\"uGF%
+F%6$I)operatorGF%I&arrowGF%F%,(*$9$\"\"#\"\"\"*$9%F-F.*$,&F,F.F0F.F-F-
+F%F%F%" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 207 38 "i.e., the optimal feed
+back is given by" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 50 "uopt(N) := x ->
+ solve ( D[2](J(N))(x, u) = 0, u ):" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 
+11 "uopt(N)(x);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$I\"xG6\"#!\"#\"\"$"
+ }}}{EXCHG {PARA 0 "" 0 "" {TEXT 207 45 "and the optimal value functio
+n is of the form" }{TEXT 207 0 "" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 40 
+"V(N) := unapply(J(N)(x, uopt(N)(x)), x):" }{MPLTEXT 1 0 0 "" }}{PARA 
+0 "> " 0 "" {MPLTEXT 1 0 8 "V(N)(x);" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+,$*$I\"xG6\"\"\"##\"\"&\"\"$" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }
