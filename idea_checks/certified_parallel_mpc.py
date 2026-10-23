@@ -21,6 +21,7 @@ import numpy as np
 U = np.linspace(-1, 1, 401)
 XMAX = 2.0
 ALPHA = 0.5
+BREAK_TOL = 1e-6  # decrease violations below this are round-off near the origin, not breaks
 
 
 def g(x, u):
@@ -105,7 +106,12 @@ def terminal_test(J, xN, stage_now):
     return bool(TJ - J(xN) <= (1 - ALPHA) * stage_now + 1e-9), uN
 
 
-def simulate(x0, units, certified, T=40, return_stats=False):
+def simulate(x0, units, certified, T=40, return_stats=False, lock=True, log=None):
+    """Closed-loop cost from x0 (plus J* of the final state).
+
+    lock: after a certificate break, use offline-certified units only.
+    log:  if a list, one (x_t, unit, v_t, g_t) tuple is appended per step.
+    """
     x, total, prev = x0, 0.0, None  # prev = (name, terminal function, remaining plan)
     locked, breaks, V_prev, g_prev = False, 0, None, None
     for _ in range(T):
@@ -139,10 +145,12 @@ def simulate(x0, units, certified, T=40, return_stats=False):
         if not cands:
             return (np.inf, breaks, locked) if return_stats else np.inf
         v, u, name, J, plan = min(cands, key=lambda c: c[0])
-        if certified and V_prev is not None and v > V_prev - ALPHA * g_prev + 1e-9:
+        if certified and V_prev is not None and v > V_prev - ALPHA * g_prev + BREAK_TOL:
             breaks += 1      # certificate chain broken: from now on use offline-certified units only
-            locked = True
+            locked = lock
         V_prev, g_prev = float(v), float(g(x, u))
+        if log is not None:
+            log.append((float(x), name, V_prev, g_prev))
         prev = (name, J, plan)
         total += float(g(x, u))
         x = f(x, u)
