@@ -67,7 +67,7 @@
 | [Gros & Zanon, Learning for MPC with stability & safety guarantees, Automatica 2022](https://arxiv.org/abs/2012.07369) | 学习更新 MPC 参数时，把参数限制在保持鲁棒稳定的集合里 | 靠约束参数化保证；学习单元不能任意。方向一允许任意学习单元，代价是要在线检验 |
 | [Simplex 架构](https://ar5iv.labs.arxiv.org/html/1908.00528)（Neural Simplex 2020、Black-Box Simplex 2022） | 高性能未验证控制器 + 已验证保底控制器 + 切换模块 | 方向一的工程原型；但 Simplex 只管安全、整机切换，方向一在 MPC 终端成分的粒度上切换，并带性能界 |
 | [Predictive safety filter, Automatica 2021](https://arxiv.org/abs/1812.05506)、[PCBF](https://arxiv.org/abs/2105.10241) | 对任意学习控制量做 MPC 式安全检查，不安全就修改 | 只保证约束满足，不管性能和下降 |
-| [LOOP, CoRL 2022](https://proceedings.mlr.press/v164/sikchi22a.html)、[Blending MPC & VFA, ICLR 2021](https://arxiv.org/abs/2012.05909)、[TD-MPC](https://arxiv.org/abs/2203.04955)、[TD-GRPC, arXiv 2505.13549](https://arxiv.org/abs/2505.13549) | 学习终端价值 + 短时域规划，RL 侧主流做法 | 只追求性能，没有稳定性或性能界；它们发现的价值误差、actor 发散问题正是方向一要处理的 |
+| [LOOP, CoRL 2021](https://proceedings.mlr.press/v164/sikchi22a.html)、[Blending MPC & VFA, ICLR 2021](https://arxiv.org/abs/2012.05909)、[TD-MPC](https://arxiv.org/abs/2203.04955)、[TD-GRPC, arXiv 2505.13549](https://arxiv.org/abs/2505.13549) | 学习终端价值 + 短时域规划，RL 侧主流做法 | 只追求性能，没有稳定性或性能界；它们发现的价值误差、actor 发散问题正是方向一要处理的 |
 | [Actor-Critic MPC, T-RO 2025](https://arxiv.org/abs/2306.09852) | 可微 MPC 作为 actor 嵌入 RL，用于无人机竞速 | 学习的是 MPC 内部参数，无保证 |
 | [SIT-LMPC, RA-L 2026](https://arxiv.org/abs/2602.16187) | MPPI 版 LMPC，用归一化流学习价值函数，GPU 上并行多个惩罚参数 | 说明"学习价值函数 + 并行求解"在 LMPC 社区已是趋势；它的价值函数同样没有逐步检验 |
 | [BAN-MPC, RA-L 2025](https://arxiv.org/abs/2509.06404) | 离线学习的神经价值函数作短时域 MPC 终端代价，CBF 管避障 | 安全靠 CBF，价值函数本身不检验 |
