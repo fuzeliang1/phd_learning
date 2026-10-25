@@ -139,9 +139,9 @@
 | 15–16 | 10-25 | 第 28、29 课 | `e955add` |
 | 17 | 10-25 | 第五部分总结、附录 C（78 篇文献核对） | `7129913` |
 | 18 | 10-25 | 第 30 课 | `41d2da5` |
-| 19 | 10-25 | 整理记忆文件：拆出 `项目记忆_详细记录.md`，定维护规则 | 未提交 |
+| 19 | 10-25 | 整理记忆文件：拆出 `项目记忆_详细记录.md`，定维护规则 | `6f5cf8a` |
 
-分支：2026-10-23 在 `claude/beautiful-archimedes-j1j2u2`；10-24 在 `claude/determined-heisenberg-zc4gm2`（PR #1 合并进 main）；10-25 起在 `claude/rl-lessons-28-29`，到第 18 项为止已快进合并进 main，main 和该分支一致。
+分支：2026-10-23 在 `claude/beautiful-archimedes-j1j2u2`；10-24 在 `claude/determined-heisenberg-zc4gm2`（PR #1 合并进 main）；10-25 起在 `claude/rl-lessons-28-29`，到第 19 项为止已快进合并进 main，main 和该分支一致。
 
 ## 下一步
 
